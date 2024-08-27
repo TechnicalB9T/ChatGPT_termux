@@ -1,2 +1,2 @@
 # ChatGPT_termux
-This is a python code for using chatgpt in Termux
+This is a python code to use chatgpt in Termux
